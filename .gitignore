@@ -28,3 +28,5 @@ hs_err_pid*
 # idea files ignored
 .idea
 wow.iml 
+
+target/
