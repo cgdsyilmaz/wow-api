@@ -1,0 +1,5 @@
+com\wowapi\app\config\WebSecurityConfig.class
+com\wowapi\app\Toon.class
+com\wowapi\app\config\SwaggerConfiguration.class
+com\wowapi\app\Application.class
+com\wowapi\app\CharacterResource.class
